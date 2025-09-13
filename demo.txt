@@ -1,1 +1,4 @@
-hi this is fast forward merge
+hi this is fast forward 
+6
+6666
+66e
