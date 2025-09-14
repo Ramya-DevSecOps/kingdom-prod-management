@@ -1,2 +1,3 @@
 d3 commit
 my dell laptop
+i3 version
