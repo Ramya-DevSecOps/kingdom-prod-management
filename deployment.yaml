@@ -18,4 +18,4 @@ spec:
         - name: my-app-container
           image: mydockerhubuser/my-app:latest  # Replace with your image
           ports:
-            - containerPort: 80
+            - containerPort: 8081
